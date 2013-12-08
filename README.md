@@ -1,6 +1,7 @@
 # heroku-buildpack-rgeo-prep
 
 This buildpack overwrites Heroku's default .bundle/config to set BUNDLE_BUILD__RGEO to Heroku's build directory.
+Verified to work with Amazon AWS RDS.
 
 ## Setup
 
