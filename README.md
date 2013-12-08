@@ -10,7 +10,7 @@ This solution closely follows this [blog article](https://devcenter.spacialdb.co
 Create this .buildpacks file in the root of your project.
 
     https://github.com/peterkeen/heroku-buildpack-vendorbinaries.git
-    https://github.com/aaronrenner/heroku-buildpack-rgeo-prep.git
+    https://github.com/seanmccann/heroku-buildpack-rgeo-prep.git
     https://github.com/heroku/heroku-buildpack-ruby.git
 
 Create this .vendor_urls file in the root of your project.
